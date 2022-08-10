@@ -31,8 +31,8 @@
  
 ## 
  
-<p align=center>  
-  ![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorva-aa&hide=issues,contribs&include_all_commits=true)
+<p align="center">
+![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorva-aa&hide=issues,contribs&include_all_commits=true)
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=apoorva-aa&&style=flat-square) 
