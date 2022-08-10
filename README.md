@@ -30,11 +30,8 @@
  </p>
  
 ## 
- 
-<p align="center">
-![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorva-aa&hide=issues,contribs&include_all_commits=true)
-</p>
 
+![Apoorva'as Github Stats](https://github-readme-stats.vercel.app/api?username=apoorva-aa&hide=issues,contribs&include_all_commits=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=apoorva-aa&&style=flat-square) 
  
   
