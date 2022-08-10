@@ -8,7 +8,7 @@
   - I am currently exploring the field of Machine Learning, Security and Quantum Computing.
   - When I'm not coding you'll find me in my corner with a book in my hand!
   - Connect with me on my [LinkedIn](https://www.linkedin.com/in/apoorva-arya02/)
-  <br>
+  <br/>
  ## Languages and Tools
  ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
  ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
@@ -21,10 +21,12 @@
  ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
  ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
- <br>
+ <br/>
  ## Github Stats  
  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=apoorva-aa&theme=react&date_format=M%20j%5B%2C%20Y%5D)
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=apoorva-aa&show_icons=true&theme=radical">
+</p>
 ![Profile views counter](https://komarev.com/ghpvc/?username=apoorva-aa&&style=flat-square)  
  
   
