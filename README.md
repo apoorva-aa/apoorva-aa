@@ -1,5 +1,4 @@
-### Hi there 👋 I am [Apoorva](https://github.com/apoorva-aa)
-<img src="https://raw.githubusercontent.com/apoorva-aa/apoorva-aa/main/icons_badges/Apoorva_Banner.gif">
+<img src="https://raw.githubusercontent.com/apoorva-aa/apoorva-aa/main/icons_badges/Apoorva_Banner.gif" align="center" style="width: 100%" />
 
 <!--
 **apoorva-aa/apoorva-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
