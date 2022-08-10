@@ -32,7 +32,7 @@
 ## 
  
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=apoorva-aa&show_icons=true&theme=radical">
+  ![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorva-aa&hide=issues,contribs&include_all_commits=true)
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=apoorva-aa&&style=flat-square) 
