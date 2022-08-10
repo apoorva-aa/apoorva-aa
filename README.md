@@ -2,17 +2,6 @@
 
 <!--
 **apoorva-aa/apoorva-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ## About me
   - I am an upcoming third-year Computer Science and Engineering student at IIIT Delhi.
@@ -33,8 +22,9 @@ Here are some ideas to get you started:
  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
  ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
  <br>
- ![Apoorva's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+ ## Github Stats  
  
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=apoorva-aa&theme=react&date_format=M%20j%5B%2C%20Y%5D)
+![Profile views counter](https://komarev.com/ghpvc/?username=apoorva-aa&&style=flat-square)  
  
   
