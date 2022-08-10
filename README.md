@@ -6,8 +6,8 @@
 ## About me
   - I am an upcoming third-year Computer Science and Engineering student at IIIT Delhi.
   - I am currently exploring the field of Machine Learning, Security and Quantum Computing.
-  - When I'm not coding you'll find me in my corner with a book in my hand!
-  - Connect with me on my [LinkedIn](https://www.linkedin.com/in/apoorva-arya02/)
+  - When I'm not coding you'll find me in a corner with a book in my hand!
+  - Connect with me [here](https://www.linkedin.com/in/apoorva-arya02/)
 
 ## Languages and Tools
 <p>
